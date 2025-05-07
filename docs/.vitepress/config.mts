@@ -16,7 +16,7 @@ export default defineConfig({
       provider: 'local'
     },
     siteTitle: 'NowMeow Docs',
-    logo: '/nowmeowpage/logo.svg',
+    logo: './logo.svg',
     nav: [
       { text: 'Главная', link: '/' },
       { text: 'Примеры', link: '/markdown-examples' }
