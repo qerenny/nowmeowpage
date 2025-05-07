@@ -50,7 +50,13 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: ./.vitepress/dist
+      - name: Check build output
+        run: |
+          echo "--- .vitepress directory ---"
+          ls -la ./.vitepress
+          echo "--- dist directory ---"
+          ls -la ./.vitepress/dist || echo "dist not created"
 
   # Deployment job
   deploy:
