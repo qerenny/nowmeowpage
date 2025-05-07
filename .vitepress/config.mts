@@ -36,7 +36,7 @@ export default defineConfig({
       { icon: 'telegram', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
-  base: '/base/',
+  base: '/nowmeowpage/',
   lang: 'ru-RU',
 })
 
