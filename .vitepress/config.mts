@@ -1,41 +1,29 @@
 import { defineConfig } from 'vitepress'
+import ru from './ru'
+import en from './en'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "VPN NowMeow Docs",
-  description: " ",
+  locales: {
+    root: {
+      label: 'Русский',
+      title: 'NowMeow Документация',
+      lang: 'ru-RU',
+      ...ru
+    },
+    en: {
+      label: 'English',
+      lang: 'en-US',
+      title: 'NowMeow Docs',
+      link: '/en/',
+      ...en
+    }
+  },
   markdown: {
     theme: {
-      light: "catppuccin-latte",
-      dark: "catppuccin-mocha",
-    },
-  },
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    search: {
-      provider: 'local'
-    },
-    siteTitle: 'NowMeow Docs',
-    logo: './logo.svg',
-    nav: [
-      { text: 'Главная', link: '/' },
-      { text: 'Примеры', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Примеры',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-
-    socialLinks: [
-      { icon: 'telegram', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  },
-  lang: 'ru-RU',
+      light: 'catppuccin-latte',
+      dark: 'catppuccin-mocha'
+    }
+  }
 })
 
