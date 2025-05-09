@@ -1,10 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
+const localePrefix = '/ru'
+
 export default defineConfig({
   lang: 'ru-RU',
-  title: "NowMeow Docs",
-  description: " ",
   markdown: {
     theme: {
       light: "catppuccin-latte",
@@ -12,58 +11,46 @@ export default defineConfig({
     },
   },
 
-  locales: {
-    root: {
-      label: 'Русский',
-      lang: 'ru'
-    },
-    ru: {
-      label: 'English',
-      lang: 'en', 
-      link: '/en/' 
-    }
-  },
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'NowMeow Docs',
     logo: './logo.svg',
     nav: [
-      { text: 'О нас', link: '/' },
-      { text: 'Частые вопросы', link: '/faq/faq-info' },
+      { text: 'О нас', link: `${localePrefix}/` },
+      { text: 'Частые вопросы', link: `${localePrefix}/faq/faq-info` },
       { 
         text: 'Инструкции',
         items: [
-          { text: 'IOS', link: '/devices/ios' },
-          { text: 'MacOs', link: '/devices/macos' },
-          { text: 'Android', link: '/devices/android' },
-          { text: 'Android TV', link: '/devices/android-tv' },
-          { text: 'Windows', link: '/devices/windows' },
-          { text: 'Windows NekoRay/NekoBox', link: '/devices/windows-nekoray' },
-          { text: 'Linux', link: '/devices/linux' },
+          { text: 'IOS', link: `${localePrefix}/devices/ios` },
+          { text: 'MacOs', link: `${localePrefix}/devices/macos` },
+          { text: 'Android', link: `${localePrefix}/devices/android` },
+          { text: 'Android TV', link: `${localePrefix}/devices/android-tv` },
+          { text: 'Windows', link: `${localePrefix}/devices/windows` },
+          { text: 'Windows NekoRay/NekoBox', link: `${localePrefix}/devices/windows-nekoray` },
+          { text: 'Linux', link: `${localePrefix}/devices/linux` },
         ]
       }
     ],
 
     sidebar: {
-      '/faq/': [
+      [`${localePrefix}/faq/`]: [
         {
           text: 'Частые вопросы',
           items: [
-            { text: 'Вопросы', link: '/faq/faq-info' }
+            { text: 'Вопросы', link: `${localePrefix}/faq/faq-info` }
           ]
         }
       ],
-      '/devices/': [
+      [`${localePrefix}/devices/`]: [
         {
           text: 'Инструкции',
           items: [
-            { text: 'IOS', link: '/devices/ios' },
-            { text: 'MacOs', link: '/devices/macos' },
-            { text: 'Android', link: '/devices/android' },
-            { text: 'Android TV', link: '/devices/android-tv' },
-            { text: 'Windows', link: '/devices/windows' },
-            { text: 'Windows NekoRay/NekoBox', link: '/devices/windows-nekoray' },
-            { text: 'Linux', link: '/devices/linux' },
+            { text: 'IOS', link: `${localePrefix}/devices/ios` },
+            { text: 'MacOs', link: `${localePrefix}/devices/macos` },
+            { text: 'Android', link: `${localePrefix}/devices/android` },
+            { text: 'Android TV', link: `${localePrefix}/devices/android-tv` },
+            { text: 'Windows', link: `${localePrefix}/devices/windows` },
+            { text: 'Windows NekoRay/NekoBox', link: `${localePrefix}/devices/windows-nekoray` },
+            { text: 'Linux', link: `${localePrefix}/devices/linux` },
           ]
         }
       ]
@@ -120,4 +107,3 @@ export default defineConfig({
   
   lastUpdated: true
 })
-

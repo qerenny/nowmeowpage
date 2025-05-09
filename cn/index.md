@@ -6,10 +6,10 @@ hero:
   actions:
     - theme: brand
       text: Frequently Asked Questions
-      link: /en/faq/
+      link: /cn/faq/
     - theme: brand
       text: Setup Guides
-      link: /en/devices/
+      link: /cn/devices/
 ---
 
 # 🫂 About Us
