@@ -6,14 +6,14 @@ hero:
   name: "NowMeow VPN"
   actions:
     - theme: brand
-      text: Частые вопросы
-      link: /faq/
+      text: Frequently Asked Questions
+      link: /en/faq/
     - theme: brand
-      text: Инструкции
-      link: /devices/
+      text: Setup Guides
+      link: /en/devices/
 ---
 
-# 🫂 О нас 
-## Информация о нас
+# 🫂 About Us
+## Who We Are
 
 
