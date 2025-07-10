@@ -13,11 +13,24 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: 'NowMeow Docs',
-    logo: './logo.svg',
+    logo: '/logo.svg',
     nav: [
       { text: 'О нас', link: `${localePrefix}/` },
-      { text: 'Частые вопросы', link: `${localePrefix}/faq/faq-info` },
-      { 
+      {
+        text: 'Частые вопросы',
+        items: [
+          { text: 'Что такое NowMeow VPN и как он работает?', link: `${localePrefix}/faq/how-it-works` },
+          { text: 'Как начать использовать NowMeow VPN?', link: `${localePrefix}/faq/how-to-start` },
+          { text: 'Какие преимущества NowMeow VPN?', link: `${localePrefix}/faq/advantages` },
+          { text: 'Сохраняете ли вы логи моей активности?', link: `${localePrefix}/faq/logs-policy` },
+          { text: 'Сколько стоит использование NowMeow VPN?', link: `${localePrefix}/faq/pricing` },
+          { text: 'Как получить бесплатные дни подписки?', link: `${localePrefix}/faq/free-days` },
+          { text: 'На каком протоколе работает VPN?', link: `${localePrefix}/faq/protocol` },
+          { text: 'Могу ли я использовать NowMeow VPN на нескольких устройствах?', link: `${localePrefix}/faq/multiple-devices` },
+          { text: 'Что делать, если возникли проблемы с подключением?', link: `${localePrefix}/faq/troubleshooting` },
+        ]
+      },
+      {
         text: 'Инструкции',
         items: [
           { text: 'IOS', link: `${localePrefix}/devices/ios` },
@@ -36,7 +49,15 @@ export default defineConfig({
         {
           text: 'Частые вопросы',
           items: [
-            { text: 'Вопросы', link: `${localePrefix}/faq/faq-info` }
+            { text: 'Что такое NowMeow VPN и как он работает?', link: `${localePrefix}/faq/how-it-works` },
+            { text: 'Как начать использовать NowMeow VPN?', link: `${localePrefix}/faq/how-to-start` },
+            { text: 'Какие преимущества NowMeow VPN?', link: `${localePrefix}/faq/advantages` },
+            { text: 'Сохраняете ли вы логи моей активности?', link: `${localePrefix}/faq/logs-policy` },
+            { text: 'Сколько стоит использование NowMeow VPN?', link: `${localePrefix}/faq/pricing` },
+            { text: 'Как получить бесплатные дни подписки?', link: `${localePrefix}/faq/free-days` },
+            { text: 'На каком протоколе работает VPN?', link: `${localePrefix}/faq/protocol` },
+            { text: 'Могу ли я использовать NowMeow VPN на нескольких устройствах?', link: `${localePrefix}/faq/multiple-devices` },
+            { text: 'Что делать, если возникли проблемы с подключением?', link: `${localePrefix}/faq/troubleshooting` },
           ]
         }
       ],

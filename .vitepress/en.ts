@@ -10,10 +10,10 @@ export default defineConfig({
       provider: 'local'
     },
     siteTitle: 'NowMeow Docs',
-    logo: './logo.svg',
+    logo: '/logo.svg',
     nav: [
       { text: 'About Us', link: `${localePrefix}/` },
-      { text: 'FAQ', link: `${localePrefix}/faq/faq-info` },
+      { text: 'FAQ', link: `${localePrefix}/faq/` },
       {
         text: 'Guides',
         items: [
@@ -32,7 +32,7 @@ export default defineConfig({
         {
           text: 'FAQ',
           items: [
-            { text: 'Questions', link: `${localePrefix}/faq/faq-info` }
+            { text: 'Questions', link: `${localePrefix}/faq` }
           ]
         }
       ],
