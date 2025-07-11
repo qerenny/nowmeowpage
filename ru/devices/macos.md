@@ -9,7 +9,8 @@
 3. Нажмите **«Скачать в AppStore»**:
    ![Скачать в AppStore](/pics/macos/instructions.png)
 4. В App Store нажмите значок загрузки:
-   ![App Store](/pics/macos/appstore.png)
+    <img src="/pics/macos/appstore.png" alt="App Store" width="100"/>
+
 
 ---
 
