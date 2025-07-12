@@ -5,25 +5,25 @@
 1. Нажмите на кнопку в боте "**Перейти к моей подписке**"
 
 <div align="center">
-  <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 2. Перейдите в раздел **Android** в инструкции.
 
 <div align="center">
-  <img src="/pics/shared/instructions.png" alt="Инструкции" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/shared/instructions.png" alt="Инструкции" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 3. Нажмите **«Скачать в PlayMarket»**:
 
 <div align="center">
-  <img src="/pics/android/instructions_android.png" alt="Скачать в PlayMarket" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/instructions_android.png" alt="Скачать в PlayMarket" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 4. Установите приложение v2RayTun через Google Play:
 
 <div align="center">
-  <img src="/pics/android/playmarket_android.jpg" alt="v2RayTun в Google Play" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/playmarket_android.jpg" alt="v2RayTun в Google Play" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -33,7 +33,7 @@
 1. После установки нажмите **«Добавить подписку»** в инструкции:
 
 <div align="center">
-  <img src="/pics/android/add_sub_android.png" alt="Добавить подписку" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/add_sub_android.png" alt="Добавить подписку" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -44,7 +44,7 @@
 2. Нажмите **Разрешить (Allow)**, чтобы приложение могло подключаться от имени системы.
 
 <div align="center">
-  <img src="/pics/android/allow_vpn_android.png" alt="Разрешить VPN" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/allow_vpn_android.png" alt="Разрешить VPN" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 > _Если вы не видите это окно — перейдите в настройки Android → Сеть и VPN → и вручную дайте разрешение приложению._ -->
@@ -56,7 +56,7 @@
 2. Нажмите синюю кнопку питания:
 
 <div align="center">
-  <img src="/pics/android/turn_on_android.jpg" alt="Подключение к серверу" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/turn_on_android.jpg" alt="Подключение к серверу" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -65,7 +65,7 @@
 1. Кнопка станет **зелёной**, а статус сменится на **Подключено**:
 
 <div align="center">
-  <img src="/pics/android/finish_android.jpg" alt="VPN подключён" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/android/finish_android.jpg" alt="VPN подключён" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 

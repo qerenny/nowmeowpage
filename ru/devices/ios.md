@@ -5,19 +5,19 @@
 1. Нажмите на кнопку в боте "**Перейти к моей подписке**"
 
 <div align="center">
-  <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 2. Перейдите в раздел **iOS** в инструкции.
 
 <div align="center">
-  <img src="/pics/shared/instructions.png" alt="Инструкции" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/shared/instructions.png" alt="Инструкции" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 3. Нажмите **«Скачать в AppStore»**:
 
 <div align="center">
-  <img src="/pics/ios/appstore.png" alt="Скачать в AppStore" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/appstore.png" alt="Скачать в AppStore" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -27,7 +27,7 @@
 1. После установки нажмите кнопку **«Добавить подписку»**:
 
 <div align="center">
-  <img src="/pics/ios/add_sub_ios.png" alt="Добавить подписку" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/add_sub_ios.png" alt="Добавить подписку" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -38,7 +38,7 @@
 2. Нажмите **Allow (Разрешить)**, чтобы приложение смогло настроить VPN-профиль:
 
 <div align="center">
-  <img src="/pics/ios/allow_vpn.png" alt="Разрешить VPN" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/allow_vpn.png" alt="Разрешить VPN" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -49,7 +49,7 @@
 2. Нажмите кнопку подключения (синяя кнопка питания):
 
 <div align="center">
-  <img src="/pics/ios/turn_on.png" alt="Выбрать и подключить" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/turn_on.png" alt="Выбрать и подключить" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -60,7 +60,7 @@
 2. Статус сменится на **Connected**:
 
 <div align="center">
-  <img src="/pics/ios/finish.png" alt="VPN подключён" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/finish.png" alt="VPN подключён" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
