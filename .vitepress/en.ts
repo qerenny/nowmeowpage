@@ -9,8 +9,6 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    siteTitle: 'NowMeow Docs',
-    logo: '/logo.svg',
     nav: [
       { text: 'About Us', link: `${localePrefix}/` },
       { text: 'FAQ', link: `${localePrefix}/faq/` },

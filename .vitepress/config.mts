@@ -3,6 +3,12 @@ import ru from './ru'
 import en from './en'
 
 export default defineConfig({
+  head: [
+    ['link', { rel: 'icon', href: '/logo.svg', type: 'image/x-icon' }],
+  ],
+  themeConfig: {
+    siteTitle: 'NowMeow Docs',
+    logo: '/logo.svg',},
   locales: {
     root: {
       label: 'Русский',

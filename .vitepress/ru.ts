@@ -12,8 +12,6 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'NowMeow Docs',
-    logo: '/logo.svg',
     nav: [
       { text: 'О нас', link: `${localePrefix}/` },
       {
