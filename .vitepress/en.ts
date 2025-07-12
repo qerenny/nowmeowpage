@@ -18,7 +18,6 @@ export default defineConfig({
           { text: 'iOS', link: `${localePrefix}/devices/ios` },
           { text: 'macOS', link: `${localePrefix}/devices/macos` },
           { text: 'Android', link: `${localePrefix}/devices/android` },
-          { text: 'Android TV', link: `${localePrefix}/devices/android-tv` },
           { text: 'Windows', link: `${localePrefix}/devices/windows` },
           { text: 'Windows NekoRay/NekoBox', link: `${localePrefix}/devices/windows-nekoray` },
           { text: 'Linux', link: `${localePrefix}/devices/linux` }
@@ -41,7 +40,6 @@ export default defineConfig({
             { text: 'iOS', link: `${localePrefix}/devices/ios` },
             { text: 'macOS', link: `${localePrefix}/devices/macos` },
             { text: 'Android', link: `${localePrefix}/devices/android` },
-            { text: 'Android TV', link: `${localePrefix}/devices/android-tv` },
             { text: 'Windows', link: `${localePrefix}/devices/windows` },
             { text: 'Windows NekoRay/NekoBox', link: `${localePrefix}/devices/windows-nekoray` },
             { text: 'Linux', link: `${localePrefix}/devices/linux` }

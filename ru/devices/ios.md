@@ -17,7 +17,7 @@
 3. Нажмите **«Скачать в AppStore»**:
 
 <div align="center">
-  <img src="/pics/ios/appstore.PNG" alt="Скачать в AppStore" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/appstore.png" alt="Скачать в AppStore" width="600" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -38,7 +38,7 @@
 2. Нажмите **Allow (Разрешить)**, чтобы приложение смогло настроить VPN-профиль:
 
 <div align="center">
-  <img src="/pics/ios/allow_vpn.PNG" alt="Разрешить VPN" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/allow_vpn.png" alt="Разрешить VPN" width="600" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -49,7 +49,7 @@
 2. Нажмите кнопку подключения (синяя кнопка питания):
 
 <div align="center">
-  <img src="/pics/ios/turn_on.PNG" alt="Выбрать и подключить" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/turn_on.png" alt="Выбрать и подключить" width="600" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
@@ -60,7 +60,7 @@
 2. Статус сменится на **Connected**:
 
 <div align="center">
-  <img src="/pics/ios/finish.PNG" alt="VPN подключён" width="600" style="border-radius: 12px; margin: 1rem 0;" />
+  <img src="/pics/ios/finish.png" alt="VPN подключён" width="600" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
 
