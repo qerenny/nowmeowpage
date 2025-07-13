@@ -2,7 +2,7 @@
 
 ## ✅ Шаг 1. Установите приложение Hiddify
 
-1. Нажмите кнопку "**Перейти к моей подписке**" в Telegram-боте
+1. Нажмите кнопку "**Перейти к моей подписке**" в [Telegram-боте NowMeow VPN](https://t.me/VPN_nowmeow_bot)
 
 <div align="center">
   <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="450" style="border-radius: 12px; margin: 1rem 0;" />
@@ -26,7 +26,7 @@
   <img src="/pics/linux/files_linux.png" alt="Скачивание Hiddify .deb" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
----
+
 
 ## ⚙️ Шаг 2. Установите приложение
 
@@ -55,11 +55,11 @@
   <img src="/pics/linux/hiddify_menu_linux.png" alt="Главное меню Hiddify" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
----
+
 
 ## ➕ Шаг 3. Добавьте подписку
 
-1. Вернитесь в инструкции и снова нажмите **Скопировать подписку**  
+1. Нажмите **Скопировать подписку** [в инструкции в Telegram-боте NowMeow VPN](https://t.me/VPN_nowmeow_bot)  
 
 <div align="center">
   <img src="/pics/linux/add_sub_linux.png" alt="Подтверждение Hiddify" width="450" style="border-radius: 12px; margin: 1rem 0;" />
@@ -77,7 +77,7 @@
   <img src="/pics/linux/added_sub_linux.png" alt="Профиль успешно добавлен" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
----
+
 
 ## 🌍 Шаг 4. Подключитесь к VPN
 
@@ -87,7 +87,7 @@
   <img src="/pics/linux/finish_linux.png" alt="Успешное подключение" width="450" style="border-radius: 12px; margin: 1rem 0;" />
 </div>
 
----
+
 
 ## ✅ Готово!
 

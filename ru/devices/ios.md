@@ -2,7 +2,7 @@
 
 ## ✅ Шаг 1. Установите приложение v2RayTun
 
-1. Нажмите на кнопку в боте "**Перейти к моей подписке**"
+1. Нажмите на кнопку в боте "**Перейти к моей подписке**" в [Telegram-боте NowMeow VPN](https://t.me/VPN_nowmeow_bot)
 
 <div align="center">
   <img src="/pics/shared/main_menu.png" alt="Перейти к подписке" width="450" style="border-radius: 12px; margin: 1rem 0;" />
@@ -24,7 +24,7 @@
 
 ## ➕ Шаг 2. Добавьте подписку
 
-1. После установки нажмите кнопку **«Добавить подписку»**:
+1. После установки нажмите кнопку **«Добавить подписку»** [в инструкции в Telegram-боте NowMeow VPN](https://t.me/VPN_nowmeow_bot):
 
 <div align="center">
   <img src="/pics/ios/add_sub_ios.png" alt="Добавить подписку" width="450" style="border-radius: 12px; margin: 1rem 0;" />

@@ -17,20 +17,20 @@ export default defineConfig({
       link: '/ru/',
       ...ru
     },
-    en: {
-      label: 'English',
-      lang: 'en-US',
-      title: 'NowMeow Docs',
-      link: '/en/',
-      ...en
-    },
-    cn: {
-      label: '中国人',
-      lang: 'cn-CN',
-      title: 'NowMeow Docs',
-      link: '/cn/',
-      ...en
-    }
+    // en: {
+    //   label: 'English',
+    //   lang: 'en-US',
+    //   title: 'NowMeow Docs',
+    //   link: '/en/',
+    //   ...en
+    // },
+    // cn: {
+    //   label: '中国人',
+    //   lang: 'cn-CN',
+    //   title: 'NowMeow Docs',
+    //   link: '/cn/',
+    //   ...en
+    // }
   },
   markdown: {
     theme: {
