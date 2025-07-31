@@ -5,7 +5,7 @@
 | Платформа | Тип подключения | Инструкция |
 |----------|------------------|------------|
 | 🐧 **Linux** | Hiddify | [Открыть инструкцию](/ru/devices/linux.md) |
-| 🪟 **Windows** | Hiddify | [Открыть инструкцию](/ru/devices/windows.md) |
+| 🪟 **Windows** | v2RayTun | [Открыть инструкцию](/ru/devices/windows.md) |
 | 🪟 **Windows** | Nekoray (Tunneling) | [Открыть инструкцию](/ru/devices/windows-nekoray.md) |
 | 🍏 **macOS** | v2RayTun | [Открыть инструкцию](/ru/devices/macos.md) |
 | 📱 **Android** | v2RayTun | [Открыть инструкцию](/ru/devices/android.md) |
