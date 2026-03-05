@@ -13,6 +13,6 @@ hero:
 ---
 
 # 🫂 About Us
-## Who We Are
+### Who We Are
 
 
